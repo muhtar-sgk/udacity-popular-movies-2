@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/m/AndroidStudioProjects/MoviesProject/AAMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/AAMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e9ae0604d64c91d3034afa005927af26a2280005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m/AndroidStudioProjects/MoviesProject/AAMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54ff1420ef5af746d53a704fd8a4d912cf0b5cba">
+        <dex dex="/Users/m/AndroidStudioProjects/MoviesProject/AAMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c400e34f56fa3da514e51e2aea107522e1edb6e/classes.dex" />
+    </item>
+
+</items>

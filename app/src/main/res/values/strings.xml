@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AAMovie</string>
+    <string name="detail_activity_title">Details</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="favourite">Favourite</string>
+    <string name="sort_by">Sort By</string>
+
+    <string name="content_descriptor_poster">Poster</string>
+    <string name="content_descriptor_backdrop">Backdrop</string>
+    <string name="content_descriptor_error_image">Error Loading Image</string>
+
+    <string name="error_loading_image_toast">The image couldn\'t be loaded</string>
+    <string name="no_data_fetched">No Data Fetched.</string>
+    <string name="no_internet">No Internet Connectivity.</string>
+    <string name="no_reviews">No Reviews Available.</string>
+    <string name="add_favourites_success">Added to Favorites</string>
+    <string name="remove_favourites_success">Removed from Favorites</string>
+    <string name="add_favourites_failure">Couldn\'t be added to Favorites</string>
+    <string name="remove_favourites_failure">Couldn\'t be removed from Favorites</string>
+
+    <string name="vote_average_add_on">/10</string>
+    <string name="author_add_on">By</string>
+
+    <string name="synopsis_title">Synopsis</string>
+    <string name="review_title">Reviews</string>
+    <string name="trailer_title">Trailers</string>
+    <string name="read_more_button">Read More</string>
+    <string name="no_trailers">No Trailers Fetched.</string>
+    <string name="no_cast">No Casts Fetched.</string>
+</resources>
